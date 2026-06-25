@@ -1,79 +1,58 @@
-# Hi, I'm Abdul 👋
+# Hi, I'm Abdul
 
-Technical Product Owner with a background in Computer Science and Software Engineering.
+Technical Product Owner working on AI and voice-platform products at Mercedes-Benz. I have a software-engineering background and enjoy working where product decisions meet APIs, platform architecture, developer experience, and production operations.
 
-I work at the intersection of product management, software systems, AI, and real customer problems. My focus is on turning complex technical ideas into useful products, clear roadmaps, and practical execution.
+My main public project is [job-hunter](https://github.com/abdulrbasit/job-hunter), an open-source Python toolkit for structured, human-in-the-loop job-search workflows.
 
-Currently exploring how AI can improve product workflows, developer experience, automation, and decision-making.
+## Current Project
 
-More ideas and projects coming soon.
+### [Job Hunter](https://github.com/abdulrbasit/job-hunter)
 
----
+A Python package and CLI that supports job discovery, fit scoring, resume tailoring, cover-letter drafting, tracking, and PDF generation.
 
-## What I Work On
+It has two operating modes:
 
-- Product management for technical and platform products
-- AI-enabled workflows and product prototypes
-- Customer problem discovery and solution framing
-- Agile delivery, stakeholder alignment, and roadmap planning
-- Software engineering foundations across backend and system design
+- Agent-assisted workflows for tools such as Claude Code, Codex, and Gemini CLI
+- Automated batch processing through configurable LLM APIs
 
----
+The project is published on [PyPI as job-hunter-kit](https://pypi.org/project/job-hunter-kit/).
 
-## Current Direction
+I use it to explore practical product questions around:
 
-I am growing toward an AI Product Manager role, combining:
+- Human-in-the-loop AI
+- Provider-independent LLM integration
+- Configuration-first product design
+- Structured evidence and anti-fabrication boundaries
+- Agent skills and reusable workflows
+- Privacy-aware automation
 
-- Product thinking
-- Technical depth
-- Hands-on prototyping
-- User-centered problem solving
-- Responsible AI-assisted workflows
+## Earlier Projects
 
-The goal is simple: build products that solve real problems, not just add technology for the sake of it.
+My other repositories are smaller engineering and learning projects rather than a large AI portfolio. They include:
 
----
+- A local Python chatbot for learning about LLM runtimes, streaming, and conversation memory
+- An iOS language-learning prototype built with Swift
+- Python command-line and automotive log-analysis experiments
+- Older university and team software projects
 
-## Projects
-
-This GitHub will include experiments, prototypes, and learning projects around:
-
-- AI product ideas
-- Developer tools
-- Automation workflows
-- Language learning tools
-- Local LLM experiments
-
-Some projects are public. Some stay private where the workflow, data, or context should not be shared.
-
----
+Some repositories are forks or academic projects and are kept primarily as a record of my software-engineering development.
 
 ## Background
 
-- Technical Product Owner
-- Former Software Engineer
-- Computer Science and Software Engineering background
-- Part-time Master's student in Global Engineering Management
-- Interested in AI products, platform thinking, and practical product execution
+- Technical Product Owner for AI and speech-platform products
+- Former C++ and Python Software Engineer
+- B.Sc. in Computer Science
+- M.Sc. Global Engineering Management in progress
+- Interested in AI products, platform strategy, developer tools, and conversational systems
 
----
+## Product Approach
 
-## How I Think About Product
+I prefer starting with the workflow and the user problem before choosing the technology:
 
-Good products start with a real problem.
+1. Understand the existing process and its constraints
+2. Identify where software or AI can remove meaningful friction
+3. Define clear system and ownership boundaries
+4. Build the smallest useful version
+5. Validate it through real usage before expanding it
 
-Before building, I care about:
-
-1. Who has the problem?
-2. How painful is it?
-3. What does the current workaround look like?
-4. Can the solution be simpler?
-5. How do we know it actually helped?
-
-Technology matters, but customer value comes first.
-
----
-
-## Let's Connect
-
-I'm always interested in product ideas, AI workflows, and practical engineering problems.
+[LinkedIn](https://linkedin.com/in/abdul-basit-481a7b1a9)
